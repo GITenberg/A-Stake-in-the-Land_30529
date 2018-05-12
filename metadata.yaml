@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34658'
     url: http://www.gutenberg.org/2009/agents/34658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30529#A-Stake-in-the-Land
 gutenberg_issued: '2009-11-23'
 gutenberg_type: Text
 identifiers:
